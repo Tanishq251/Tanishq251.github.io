@@ -24,8 +24,7 @@ const About = () => {
                   <i>@VRSEC</i>
                 </a>
                 .
-                <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;As a passionate coder with expertise in
+                As a passionate coder with expertise in
                 various programming languages and frameworks, I excel in
                 transforming complex ideas into efficient code. My participation
                 in coding contests on{" "}
