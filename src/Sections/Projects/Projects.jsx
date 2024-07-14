@@ -47,7 +47,7 @@ const projects = [
   {
     title: "File-Sharing",
     description: "Website using the Socket.io",
-    details: "Designed a web application for seamless file transfers up to 2GB using Socket.io. This application allows users to share files from anywhere with an internet connection via unique room codes. YOLOv8 for real-time detection of individuals and workers' PPE, such as helmets, vests, and masks, enhancing construction site safety. I pre-processed 3,000 images using Keras Data Generator for robust performance and implemented a real-time camera feed for continuous monitoring and detection.",
+    details: "Designed a web application for seamless file transfers up to 2GB using Socket.io.",
     link: "https://github.com/Tanishq251/File_Sharing",
     image: "/assets/Fille.png",
   },
