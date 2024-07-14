@@ -47,7 +47,7 @@ const projects = [
   {
     title: "File-Sharing",
     description: "Website using the Socket.io",
-    details: "Designed a web application for seamless file transfers up to 2GB using Socket.io.",
+    details: "Designed a web application for seamless file transfers up to 2GB using Socket.io",
     link: "https://github.com/Tanishq251/File_Sharing",
     image: "/assets/Fille.png",
   },
